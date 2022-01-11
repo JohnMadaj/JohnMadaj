@@ -3,7 +3,7 @@
   This is my student GitHub, which will ideally become my professional Github within the next few years. I'm currently working with Python, Java, C++, and Computer Architecture. 
   
 ### 📫 Reach me at: 
- [john.madaj.19@cnu.edu](john.madaj.19@cnu.edu) | 
+ [john.madaj.19@cnu.edu](mailto:john.madaj.19@cnu.edu) | 
 [LinkedIn](https://www.linkedin.com/in/john-madaj-b953a9171)
 
 
