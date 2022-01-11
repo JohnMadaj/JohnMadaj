@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there, I'm John Madaj 👋 
 
-<!--
-**JohnMadaj/JohnMadaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  This is my student GitHub, which will ideally become my professional Github within the next few years. I'm currently working with Python, Java, C++, and Computer Architecture. 
+  
+### 📫 Reach me at: 
+ [john.madaj.19@cnu.edu](john.madaj.19@cnu.edu) | 
+[LinkedIn](https://www.linkedin.com/in/john-madaj-b953a9171)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://user-images.githubusercontent.com/83408469/148995207-8e25ad29-f758-478e-ab8b-9b1340908719.png" alt="PCSE" width="300"/>
+
+- 🔭 I’m currently working on Natural Language Processing in Python
+- 🌱 I’m currently learning C++ development libraries like SDL, as well as multi-threaded C++ projects
+- 🤔 I’m looking for internship opportunities inf software or hardware development to improve my professional experience.
+- 💬 Ask me about hardware descriptor languages (HDLs), operating Linux OS, or really anything I might know about
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: I built my first PC when I was 13.
+
+
