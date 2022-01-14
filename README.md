@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on Natural Language Processing in Python
 - 🌱 I’m currently learning C++ development libraries like SDL, as well as multi-threaded C++ projects
-- 🤔 I’m looking for internship opportunities inf software or hardware development to improve my professional experience.
+- 🤔 I’m looking for internship opportunities in software or hardware development to improve my professional experience.
 - 💬 Ask me about hardware descriptor languages (HDLs), operating Linux OS, or really anything I might know about (which can be random at times).
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I built my first PC when I was 13.
