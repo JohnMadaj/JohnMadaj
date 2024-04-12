@@ -1,6 +1,8 @@
 ### Hi there, I'm John Madaj 👋 
 
   This is my personal GitHub, which serves primarily as a repository for pet projects and projects I worked on during my undergraduate career. I am currently a software engineer in warehouse automation technology, and I work primarily in Java EE/EJB, with supporting experience in SQL, DB management, application server technology and industry web development.
+
+  Some of my predominant projects in this hub include my engineering capstone application for Concussion Diagnostics, as well as my NLP ML research for the BioCreative competition.
   
 ### 📫 Reach me at: 
  [jack@valu.net](mailto:jack@valu.net) | 
