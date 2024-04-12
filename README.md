@@ -15,6 +15,6 @@
 - 🌱 I’m currently learning advanced SQL DB management involving views and indexes, and I continue to spend time with Machine Learning as a hobby.
 - 💬 Ask me about HTTP host interfaces, multi-threaded C++ applications, or natural language processing (NLP).
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I built my first PC when I was 13.
+- ⚡ Fun fact: My profile picture was taken while I performed my brothers wedding officiation, one of my all time favorite memories ;).
 
 
