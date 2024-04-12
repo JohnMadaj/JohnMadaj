@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on user-facing Java Enterprise applications that perform complex putaway logic for major retail customers.
 - 🌱 I’m currently learning advanced SQL DB management involving views and indexes, and I continue to spend time with Machine Learning as a hobby.
-- 💬 Ask me about multi-threaded C++ applications, natural language processing, or really anything I might know about (which can be random at times).
+- 💬 Ask me about HTTP host interfaces, multi-threaded C++ applications, or natural language processing (NLP).
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I built my first PC when I was 13.
 
